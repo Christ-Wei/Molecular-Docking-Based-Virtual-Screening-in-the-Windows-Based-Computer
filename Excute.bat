@@ -30,6 +30,7 @@ for %%F in (*.pdbqt) do (
     echo size_y = XXXXX >> config.txt
     echo size_z = XXXXX >> config.txt
     echo. >> config.txt
+	echo seed = 42 >> config.txt
     echo energy_range = 4 >> config.txt
     echo exhaustiveness = 8 >> config.txt
     echo num_modes = 9 >> config.txt
@@ -58,3 +59,4 @@ echo [2] AutoDock Vina: improving the speed and accuracy of docking with a new s
 echo [3] Comparative Molecular Dynamics Reveals How LRRK2 Inhibitors Distinguish G2019S from Wild-Type.
 echo Hope a successful molecular docking!
 pause
+
