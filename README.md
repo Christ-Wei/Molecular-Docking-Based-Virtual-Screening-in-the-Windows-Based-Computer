@@ -38,7 +38,7 @@ Please cite the paper below if you use Execute.bat in your analysis pipeline. Th
 
 In your manuscript, please DO NOT write that: "We run the molecular docking using Excute.bat [3]. ", cause this paper didn't show this script at all.
 Please write: "We run the molecular docking using Excute.bat, which was first applied in a previous study [3]."
-Note: This script serves only to automate execution of AutoDock Vina (vina.exe) and did not take any methodological changes. If you use it in your research and find it useful, an acknowledgment of citing [3] would be appreciated. I never required, and will not require, citations for the use of this script.
+Note: This script serves only to automate execution of AutoDock Vina (vina.exe) and did not take any methodological changes. If you use it in your research and find it useful, an acknowledgment of citing [3] would be appreciated. I never required, and will not require, citation [3] should be mandatory for the use of this script. However, it is mandatory to cite AutoDock Vina [1-2] appropriately when reporting docking results.
 
 
 Step (5): Analyse the binding affinity:
